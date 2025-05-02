@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .topsection{
     padding-bottom: 50px;
 }
@@ -5,4 +10,17 @@
 
 .weekly{
     padding-bottom: 50px;
+}
+
+.monday{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.tuesday{
+    padding-bottom: 50px;
+}
+
+.thursday{
+padding-bottom: 50px;
 }
