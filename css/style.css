@@ -9,16 +9,20 @@
 
 
 .weekly{
-    padding-bottom: 50px;
+    padding-bottom: 5px;
 }
 
 .monday{
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 50px;
 }
 
 .tuesday{
     padding-bottom: 50px;
+}
+
+.wedesday{
+padding-bottom: 50px;
 }
 
 .thursday{
