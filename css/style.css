@@ -24,3 +24,15 @@
 .thursday{
 padding-bottom: 50px;
 }
+
+.daily h1{
+    font-size: 25px;
+}
+
+.daily h2{
+    font-size: 20px;
+}
+
+.daily p{
+    font-size: 15px;
+}
