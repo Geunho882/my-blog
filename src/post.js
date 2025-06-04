@@ -36,7 +36,7 @@ posts.forEach(post => {
 
     } else {
         const a = document.createElement('a')
-        a.href = `posts.html?id=${post.id}`
+        a.href = `post.html?id=${post.id}`
         a.textContent = `Week ${post.week}` // Backticks for interpolation
         li.appendChild(a)
     }
